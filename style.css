@@ -101,9 +101,11 @@ color: white;
   padding: 20px;
 }
 .container2 {
+align-items: center;
  content-align:center;
  margin-left: 480px;
  margin-top: 40px;
+  gap: 10px;
 }
 .right-side {
   padding: 40px;
@@ -111,6 +113,7 @@ color: white;
   font-size: 24px;
   border-radius: 8px;
 }
+
 
 
 
